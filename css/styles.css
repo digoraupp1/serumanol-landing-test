@@ -471,12 +471,12 @@ header, .navbar {
 
 @media(max-width: 425px) {
   .navbar{
-    padding-bottom: 20px;
+    padding-bottom: 40px;
   }
 
   /* slider */
   #mainSlider {
-    margin-top: 50px;
+    margin-top: 90px;
   }
 
   #mainSlider .carousel-caption {
