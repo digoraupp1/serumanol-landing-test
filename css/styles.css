@@ -490,7 +490,7 @@ header, .navbar {
   }
 
   .carousel-caption .main-btn {
-    
+    padding: 5px 10px;
     font-size: 14px;
   }
 
