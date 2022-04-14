@@ -470,6 +470,9 @@ header, .navbar {
 
 
 @media(max-width: 425px) {
+  .navbar{
+    padding-bottom: 40px;
+  }
 
   /* slider */
   #mainSlider {
