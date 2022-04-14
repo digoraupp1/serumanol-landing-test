@@ -471,6 +471,8 @@ header, .navbar {
 
 @media(max-width: 425px) {
   .navbar{
+    align-items: center;
+    justify-content: center;
     padding-bottom: 40px;
   }
 
